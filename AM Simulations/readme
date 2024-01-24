@@ -1,2 +1,4 @@
 The 1000 samples that are used as the search space are in dataBO.csv.
-The initial samples for 5 repetitions are also provided initXX_BO.csv. 
+The initial samples for five repetitions are also provided initXX_BO.csv. 
+
+Raw Data provides the entire data obtained from Autodesk Netfabb Software. 
