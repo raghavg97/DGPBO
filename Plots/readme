@@ -1,1 +1,2 @@
 
+This sub folder is for plotting alone. Assuming the algorithms are run, and the outputs are saved, these codes are directly plotted from the output data. 
