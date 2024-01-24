@@ -1,1 +1,2 @@
-
+The 1000 samples that are used as the search space are in dataBO.csv.
+The initial samples for 5 repetitions are also provided initXX_BO.csv. 
